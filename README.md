@@ -1,0 +1,1 @@
+# test_id_strisce_blu
